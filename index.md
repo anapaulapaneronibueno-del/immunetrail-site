@@ -8,6 +8,12 @@ The app supports structured educational screening pathways for general immune dy
 
 ImmuneTrail does not provide medical advice, diagnosis, or treatment. All content is for educational purposes only and should not replace professional medical care.
 
+## Pages
+
+- [Privacy Policy](privacy)
+- [Terms of Service](terms)
+- [Support](support)
+
 ## Support
 
 Email: immunetrail@gmail.com
