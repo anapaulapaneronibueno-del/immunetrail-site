@@ -10,9 +10,9 @@ ImmuneTrail does not provide medical advice, diagnosis, or treatment. All conten
 
 ## Pages
 
-- [Privacy Policy](privacy)
-- [Terms of Service](terms)
-- [Support](support)
+- [Privacy Policy](https://anapaulapaneronibueno-del.github.io/immunetrail-site/privacy)
+- [Terms of Service](https://anapaulapaneronibueno-del.github.io/immunetrail-site/terms)
+- [Support](https://anapaulapaneronibueno-del.github.io/immunetrail-site/support)
 
 ## Support
 
